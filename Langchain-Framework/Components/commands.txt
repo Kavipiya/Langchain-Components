@@ -1,0 +1,3 @@
+conda create -p venv1 python==3.10 -y
+conda env list
+conda activate /Users/nemo/Documents/AI-Projects/Langchain-Projects/Langchain-Framework/DocumentIngestion/venv1
